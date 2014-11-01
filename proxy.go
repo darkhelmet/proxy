@@ -6,7 +6,6 @@ import (
 	"net/http"
 	"net/http/httputil"
 	"net/url"
-	"os"
 
 	"github.com/darkhelmet/env"
 )
